@@ -1,0 +1,60 @@
+NEW GIT 
+
+git init
+git add .
+git commit -m
+git remote add origin url
+git remote -v
+git branch
+git branch -M main
+git push origin main   OR  git push -u origin main 
+
+
+
+
+cloning 
+
+git clone url
+
+
+branching 
+
+git branch
+git checkout -b  (name of branch)     creating new branch
+git checkout (name that branch to access)
+git branch -d (name of the branch to delete this branch)
+
+
+FINDING DIFF BETWEEN 
+git diff (branch name )
+
+
+
+merging 
+
+git merge (branch name )
+
+git pull origin main
+
+
+git reset (file name )  before commit or after add 
+or 
+git reset
+
+
+git reset HEAd~1   (latest comment undo )
+
+
+
+git log   (to use your commit )
+
+
+git reset (#)   (waha challein jao jiska hash diya hai commit )
+
+git reset --hard (changes in vs code aswell)
+
+
+FORK
+copy of another acode repo
+
+
